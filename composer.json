@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Yoma_Realex",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Realex Payments",
+    "authors": [
+    {
+        "name": "Steve Cantlay",
+        "email": "steve.cantlay@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
