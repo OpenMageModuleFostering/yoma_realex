@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Yoma_Realex",
+    "name": "openmage-module-fostering\/yoma_realex",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Realex Payments",
     "authors": [
